@@ -7,6 +7,8 @@ To use:
 Clone repository
 
 http: `git clone https://github.com/carter144/HangmanSolver.git`
+
+
 ssh: `git clone git@github.com:carter144/HangmanSolver.git`
 
 cd to folder: `cd HangmanSolver`
